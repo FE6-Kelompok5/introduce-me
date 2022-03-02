@@ -1,9 +1,14 @@
 # Materi
+
 ## Daffa
 ### JavaScript, Front end Framework, SEO, dll.
 Mempelajari lebih detail seputar Front End Framework, SEO dan lain-lain
 
+
 ## Aldi
+### JavaScript
+Mempelajari lebih detail tentang javaScript
+
 ### JavaScript
 Mempelajari lebih detail tentang javaScript
 
